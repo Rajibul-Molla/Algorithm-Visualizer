@@ -360,7 +360,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/About Us/unnamed.jpg" width="100px;" alt="Rajibul Molla"/><br />
+      <img src="[https://github.com/About Us/unnamed.jpg](https://github.com/Rajibul-Molla/Algorithm-Visualizer/blob/master/About%20Us/unnamed.jpg)" width="100px;" alt="Rajibul Molla"/><br />
       <sub><b>Rajibul Molla</b></sub><br />
       <a href="https://github.com/rajibul" title="Code">💻</a>
       <a href="https://linkedin.com/in/rajibul" title="LinkedIn">💼</a>
