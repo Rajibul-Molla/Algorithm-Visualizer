@@ -8,17 +8,17 @@
   </p>
   
   <p align="center">
-    <a href="https://github.com/yourusername/algorithm-visualizer/stargazers">
-      <img src="https://img.shields.io/github/stars/yourusername/algorithm-visualizer?style=flat-square" alt="GitHub stars">
+    <a href="https://github.com/Rajibul-Molla/algorithm-visualizer/stargazers">
+      <img src="https://img.shields.io/github/stars/Rajibul-Molla/algorithm-visualizer?style=flat-square" alt="GitHub stars">
     </a>
-    <a href="https://github.com/yourusername/algorithm-visualizer/network/members">
-      <img src="https://img.shields.io/github/forks/yourusername/algorithm-visualizer?style=flat-square" alt="GitHub forks">
+    <a href="https://github.com/Rajibul-Molla/algorithm-visualizer/network/members">
+      <img src="https://img.shields.io/github/forks/Rajibul-Molla/algorithm-visualizer?style=flat-square" alt="GitHub forks">
     </a>
-    <a href="https://github.com/yourusername/algorithm-visualizer/issues">
-      <img src="https://img.shields.io/github/issues/yourusername/algorithm-visualizer?style=flat-square" alt="GitHub issues">
+    <a href="https://github.com/Rajibul-Molla/algorithm-visualizer/issues">
+      <img src="https://img.shields.io/github/issues/Rajibul-Molla/algorithm-visualizer?style=flat-square" alt="GitHub issues">
     </a>
-    <a href="https://github.com/yourusername/algorithm-visualizer/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/yourusername/algorithm-visualizer?style=flat-square" alt="GitHub license">
+    <a href="https://github.com/Rajibul-Molla/algorithm-visualizer/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/Rajibul-Molla/algorithm-visualizer?style=flat-square" alt="GitHub license">
     </a>
   </p>
 
@@ -38,7 +38,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/algorithm-visualizer/main/demo/preview.gif" alt="Algorithm Visualizer Demo" width="80%">
+  <img src="https://raw.githubusercontent.com/Rajibul-Molla/algorithm-visualizer/main/demo/preview.gif" alt="Algorithm Visualizer Demo" width="80%">
 </div>
 
 ## 📖 Table of Contents
@@ -72,7 +72,7 @@
 ## 🚀 Demo
 
 <div align="center">
-  <a href="https://yourusername.github.io/algorithm-visualizer">
+  <a href="https://Rajibul-Molla.github.io/algorithm-visualizer">
     <img src="https://img.shields.io/badge/LIVE%20DEMO-Click%20Here-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
   </a>
 </div>
@@ -186,4 +186,4 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/algorithm-visualizer.git
+   git clone https://github.com/Rajibul-Molla/algorithm-visualizer.git
