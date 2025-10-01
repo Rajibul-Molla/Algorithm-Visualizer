@@ -187,3 +187,59 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Rajibul-Molla/algorithm-visualizer.git
+
+2. **Navigate to the project directory**
+
+bash
+response-action-icon
+cd algorithm-visualizer
+Open the project
+
+Simply open index.html in your web browser
+Or use a local server:
+bash
+response-action-icon
+# Using Python
+python -m http.server 8000
+
+# Using Node.js
+npx http-server -p 8000
+Access the application
+
+Open your browser and go to http://localhost:8000
+💻 Usage
+Getting Started
+📁 Project Structure
+algorithm-visualizer/
+│
+├── 📄 index.html                 # Homepage
+├── 🎨 style.css                 # Homepage styles
+├── 📜 sorting.js                # Main sorting logic
+│
+├── 📂 Sorting/
+│   ├── 📄 sorting.html          # Sorting visualizer page
+│   ├── 🎨 sorting.css          # Sorting page styles
+│   ├── 📜 bubble.js            # Bubble sort implementation
+│   ├── 📜 selection.js         # Selection sort implementation
+│   ├── 📜 insertion.js         # Insertion sort implementation
+│   ├── 📜 merge.js             # Merge sort implementation
+│   └── 📜 quick.js             # Quick sort implementation
+│
+├── 📂 Searching/
+│   ├── 📄 searching.html        # Searching visualizer page
+│   ├── 🎨 searching.css        # Searching page styles
+│   ├── 📜 searching.js         # Main searching logic
+│   ├── 📜 LinearSearch.js      # Linear search implementation
+│   └── 📜 Binary.js            # Binary search implementation
+│
+├── 📂 About Us/
+│   ├── 📄 about.html           # About us page
+│   └── 🎨 about.css           # About page styles
+│
+├── 📂 assets/
+│   ├── 🖼️ sv-removebg-preview.png  # Favicon
+│   ├── 🎥 1st part (1).mp4         # Background video
+│   ├── 🖼️ mask (1).jpg             # Mask image
+│   └── 🖼️ upper-gradient.svg       # Background gradient
+│
+└── 📄 README.md                # Project documentation
