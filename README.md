@@ -29,8 +29,6 @@
     •
     <a href="#installation">Installation</a>
     •
-    <a href="#usage">Usage</a>
-    •
     <a href="#contributing">Contributing</a>
   </p>
 </div>
@@ -49,12 +47,8 @@
 - [Algorithms Implemented](#algorithms-implemented)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [Team](#team)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## 🎨 About
@@ -188,62 +182,178 @@
    ```bash
    git clone https://github.com/Rajibul-Molla/algorithm-visualizer.git
 
-2. **Navigate to the project directory**
+## 📸 Screenshots
 
-bash
-response-action-icon
-cd algorithm-visualizer
-Open the project
+<div align="center">
+  
+### 🏠 Homepage
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/homepage-dark.png" alt="Homepage Dark Mode" width="100%">
+      <br>
+      <em>Dark Mode</em>
+    </td>
+    <td align="center">
+      <img src="screenshots/homepage-light.png" alt="Homepage Light Mode" width="100%">
+      <br>
+      <em>Light Mode</em>
+    </td>
+  </tr>
+</table>
 
-Simply open index.html in your web browser
-Or use a local server:
-bash
-response-action-icon
-# Using Python
-python -m http.server 8000
+<br>
 
-# Using Node.js
-npx http-server -p 8000
-Access the application
+### 🔄 Sorting Visualizer
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="screenshots/sorting-main.png" alt="Sorting Visualizer Main View" width="90%">
+      <br>
+      <em>Sorting Visualizer Interface</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="screenshots/bubble-sort.gif" alt="Bubble Sort Animation" width="100%">
+      <br>
+      <em>Bubble Sort in Action</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="screenshots/quick-sort.gif" alt="Quick Sort Animation" width="100%">
+      <br>
+      <em>Quick Sort in Action</em>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="screenshots/sorting-code.png" alt="Algorithm Code Display" width="90%">
+      <br>
+      <em>Algorithm Implementation & Complexity Analysis</em>
+    </td>
+  </tr>
+</table>
 
-Open your browser and go to http://localhost:8000
-💻 Usage
-Getting Started
-📁 Project Structure
-algorithm-visualizer/
-│
-├── 📄 index.html                 # Homepage
-├── 🎨 style.css                 # Homepage styles
-├── 📜 sorting.js                # Main sorting logic
-│
-├── 📂 Sorting/
-│   ├── 📄 sorting.html          # Sorting visualizer page
-│   ├── 🎨 sorting.css          # Sorting page styles
-│   ├── 📜 bubble.js            # Bubble sort implementation
-│   ├── 📜 selection.js         # Selection sort implementation
-│   ├── 📜 insertion.js         # Insertion sort implementation
-│   ├── 📜 merge.js             # Merge sort implementation
-│   └── 📜 quick.js             # Quick sort implementation
-│
-├── 📂 Searching/
-│   ├── 📄 searching.html        # Searching visualizer page
-│   ├── 🎨 searching.css        # Searching page styles
-│   ├── 📜 searching.js         # Main searching logic
-│   ├── 📜 LinearSearch.js      # Linear search implementation
-│   └── 📜 Binary.js            # Binary search implementation
-│
-├── 📂 About Us/
-│   ├── 📄 about.html           # About us page
-│   └── 🎨 about.css           # About page styles
-│
-├── 📂 assets/
-│   ├── 🖼️ sv-removebg-preview.png  # Favicon
-│   ├── 🎥 1st part (1).mp4         # Background video
-│   ├── 🖼️ mask (1).jpg             # Mask image
-│   └── 🖼️ upper-gradient.svg       # Background gradient
-│
-└── 📄 README.md                # Project documentation
+<br>
 
+### 🔍 Searching Visualizer
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="screenshots/searching-main.png" alt="Searching Visualizer Main View" width="90%">
+      <br>
+      <em>Searching Visualizer Interface</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="screenshots/linear-search.gif" alt="Linear Search Animation" width="100%">
+      <br>
+      <em>Linear Search Animation</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="screenshots/binary-search.gif" alt="Binary Search Animation" width="100%">
+      <br>
+      <em>Binary Search Animation</em>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 👥 About Us Page
+<div align="center">
+  <img src="screenshots/about-us.png" alt="About Us Page" width="80%">
+  <br>
+  <em>Team Members Page</em>
+</div>
+
+<br>
+
+### 📱 Mobile Responsive Design
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="screenshots/mobile-home.png" alt="Mobile Homepage" width="100%">
+      <br>
+      <em>Homepage</em>
+    </td>
+    <td align="center" width="25%">
+      <img src="screenshots/mobile-menu.png" alt="Mobile Menu" width="100%">
+      <br>
+      <em>Navigation Menu</em>
+    </td>
+    <td align="center" width="25%">
+      <img src="screenshots/mobile-sorting.png" alt="Mobile Sorting" width="100%">
+      <br>
+      <em>Sorting View</em>
+    </td>
+    <td align="center" width="25%">
+      <img src="screenshots/mobile-searching.png" alt="Mobile Searching" width="100%">
+      <br>
+      <em>Searching View</em>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 🖥️ Different Screen Sizes
+<details>
+<summary><b>Click to see responsive design on various devices</b></summary>
+<br>
+<table>
+  <tr>
+    <td align="center">
+      <b>Desktop (1920x1080)</b><br>
+      <img src="screenshots/desktop-view.png" alt="Desktop View" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Laptop (1366x768)</b><br>
+      <img src="screenshots/laptop-view.png" alt="Laptop View" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Tablet (768x1024)</b><br>
+      <img src="screenshots/tablet-view.png" alt="Tablet View" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Mobile (375x812)</b><br>
+      <img src="screenshots/mobile-full.png" alt="Mobile View" width="50%">
+    </td>
+  </tr>
+</table>
+</details>
+
+<br>
+
+### ⚡ Features Showcase
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/array-generation.gif" alt="Array Generation" width="100%">
+      <br>
+      <em>Random Array Generation</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/speed-control.gif" alt="Speed Control" width="100%">
+      <br>
+      <em>Speed Control Feature</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/size-adjustment.gif" alt="Size Adjustment" width="100%">
+      <br>
+      <em>Array Size Adjustment</em>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## 👥 Team
 
@@ -270,15 +380,6 @@ algorithm-visualizer/
   </tr>
 </table>
 
-## 📄 License
-
-<div align="center">
-  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
-
-</div>
 
 ## 🎯 Future Enhancements
 
@@ -335,7 +436,7 @@ For any queries or suggestions, please reach out to us:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajibulat@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajibul-molla)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajibul-Molla)
 
 </div>
 
@@ -352,36 +453,4 @@ For any queries or suggestions, please reach out to us:
 **Happy Learning! 🚀**
 
 </div>
-algorithm-visualizer/
-│<br>
-├── 📄 index.html                 # Homepage
-├── 🎨 style.css                 # Homepage styles
-├── 📜 sorting.js                # Main sorting logic
-│<br>
-├── 📂 Sorting/
-│   ├── 📄 sorting.html          # Sorting visualizer page
-│   ├── 🎨 sorting.css          # Sorting page styles
-│   ├── 📜 bubble.js            # Bubble sort implementation
-│   ├── 📜 selection.js         # Selection sort implementation
-│   ├── 📜 insertion.js         # Insertion sort implementation
-│   ├── 📜 merge.js             # Merge sort implementation
-│   └── 📜 quick.js             # Quick sort implementation
-│<br>
-├── 📂 Searching/
-│   ├── 📄 searching.html        # Searching visualizer page
-│   ├── 🎨 searching.css        # Searching page styles
-│   ├── 📜 searching.js         # Main searching logic
-│   ├── 📜 LinearSearch.js      # Linear search implementation
-│   └── 📜 Binary.js            # Binary search implementation
-│<br>
-├── 📂 About Us/
-│   ├── 📄 about.html           # About us page
-│   └── 🎨 about.css           # About page styles
-│<br>
-├── 📂 assets/
-│   ├── 🖼️ sv-removebg-preview.png  # Favicon
-│   ├── 🎥 1st part (1).mp4         # Background video
-│   ├── 🖼️ mask (1).jpg             # Mask image
-│   └── 🖼️ upper-gradient.svg       # Background gradient
-│<br>
-└── 📄 README.md                # Project documentation
+
