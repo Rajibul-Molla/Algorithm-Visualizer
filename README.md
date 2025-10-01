@@ -243,3 +243,112 @@ algorithm-visualizer/
 │   └── 🖼️ upper-gradient.svg       # Background gradient
 │
 └── 📄 README.md                # Project documentation
+
+
+## 👥 Team
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/rajibul.png" width="100px;" alt="Rajibul Molla"/><br />
+      <sub><b>Rajibul Molla</b></sub><br />
+      <a href="https://github.com/rajibul" title="Code">💻</a>
+      <a href="https://linkedin.com/in/rajibul" title="LinkedIn">💼</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/aditya.png" width="100px;" alt="Aditya Kumar"/><br />
+      <sub><b>Aditya Kumar</b></sub><br />
+      <a href="https://github.com/aditya" title="Code">💻</a>
+      <a href="https://linkedin.com/in/aditya-kumar-8a7094296" title="LinkedIn">💼</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/somya.png" width="100px;" alt="Somya Rani"/><br />
+      <sub><b>Somya Rani</b></sub><br />
+      <a href="https://github.com/somya" title="Code">💻</a>
+      <a href="https://linkedin.com/in/somya-rani" title="LinkedIn">💼</a>
+    </td>
+  </tr>
+</table>
+
+## 📄 License
+
+<div align="center">
+  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
+
+</div>
+
+## 🎯 Future Enhancements
+
+<details>
+<summary><b>Planned Features</b></summary>
+
+- [ ] **Graph Algorithms**
+  - Dijkstra's Algorithm
+  - BFS/DFS Visualization
+  - Kruskal's & Prim's Algorithm
+
+- [ ] **Advanced Sorting**
+  - Heap Sort
+  - Radix Sort
+  - Counting Sort
+  - Bucket Sort
+
+- [ ] **Data Structures**
+  - Stack Operations
+  - Queue Operations
+  - Tree Traversals
+  - Linked List Operations
+
+- [ ] **Enhanced Features**
+  - Algorithm Comparison Mode
+  - Custom Input Arrays
+  - Step-by-step Explanation Mode
+  - Algorithm Race Mode
+  - Sound Effects
+  - Export Visualizations as GIF
+  - Multi-language Support
+
+</details>
+
+## 🙏 Acknowledgments
+
+<div align="center">
+  
+Special thanks to all contributors and the open-source community for their invaluable resources and inspiration.
+
+- **Prism.js** - For syntax highlighting
+- **Ionicons** - For beautiful icons
+- **Google Fonts** - For typography
+- **MDN Web Docs** - For web development references
+- **Stack Overflow Community** - For problem-solving support
+
+</div>
+
+## 📞 Contact
+
+<div align="center">
+
+For any queries or suggestions, please reach out to us:
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajibulat@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajibul-molla)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ⭐ Star this repository if you found it helpful!
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
+<img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="Made with JavaScript">
+<img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open Source">
+
+**Happy Learning! 🚀**
+
+</div>
