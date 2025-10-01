@@ -366,13 +366,13 @@
       <a href="https://linkedin.com/in/rajibul" title="LinkedIn">💼</a>
     </td>
     <td align="center">
-      <img src="https://github.com/aditya.png" width="100px;" alt="Aditya Kumar"/><br />
+      <img src="https://github.com/Rajibul-Molla/Algorithm-Visualizer/blob/master/About%20Us/adi.jpg" width="100px;" alt="Aditya Kumar"/><br />
       <sub><b>Aditya Kumar</b></sub><br />
       <a href="https://github.com/aditya" title="Code">💻</a>
       <a href="https://linkedin.com/in/aditya-kumar-8a7094296" title="LinkedIn">💼</a>
     </td>
     <td align="center">
-      <img src="https://github.com/somya.png" width="100px;" alt="Somya Rani"/><br />
+      <img src="https://github.com/Rajibul-Molla/Algorithm-Visualizer/blob/master/About%20Us/somya.jpg" width="100px;" alt="Somya Rani"/><br />
       <sub><b>Somya Rani</b></sub><br />
       <a href="https://github.com/somya" title="Code">💻</a>
       <a href="https://linkedin.com/in/somya-rani" title="LinkedIn">💼</a>
