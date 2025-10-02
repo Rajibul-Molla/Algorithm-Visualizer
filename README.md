@@ -190,12 +190,12 @@
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/homepage-dark.png" alt="Homepage Dark Mode" width="100%">
+      <img src="https://github.com/Rajibul-Molla/Algorithm-Visualizer/blob/master/asset/home-darkmode.png" alt="Homepage Dark Mode" width="100%">
       <br>
       <em>Dark Mode</em>
     </td>
     <td align="center">
-      <img src="screenshots/homepage-light.png" alt="Homepage Light Mode" width="100%">
+      <img src="https://github.com/Rajibul-Molla/Algorithm-Visualizer/blob/master/asset/home-lightmode.png" alt="Homepage Light Mode" width="100%">
       <br>
       <em>Light Mode</em>
     </td>
