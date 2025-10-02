@@ -213,21 +213,10 @@
       <em>Sorting Visualizer Interface</em>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/Rajibul-Molla/Algorithm-Visualizer/blob/master/asset/shorting-actioncode.png" alt="Bubble Sort Animation" width="100%">
-      <br>
-      <em>Bubble Sort in Action</em>
-    </td>
-    <td align="center" width="50%">
-      <img src="screenshots/quick-sort.gif" alt="Quick Sort Animation" width="100%">
-      <br>
-      <em>Quick Sort in Action</em>
-    </td>
-  </tr>
+
   <tr>
     <td colspan="2" align="center">
-      <img src="screenshots/sorting-code.png" alt="Algorithm Code Display" width="90%">
+      <img src="https://github.com/Rajibul-Molla/Algorithm-Visualizer/blob/master/asset/shorting-actioncode.png" alt="Algorithm Code Display" width="90%">
       <br>
       <em>Algorithm Implementation & Complexity Analysis</em>
     </td>
@@ -245,18 +234,7 @@
       <em>Searching Visualizer Interface</em>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="screenshots/linear-search.gif" alt="Linear Search Animation" width="100%">
-      <br>
-      <em>Linear Search Animation</em>
-    </td>
-    <td align="center" width="50%">
-      <img src="screenshots/binary-search.gif" alt="Binary Search Animation" width="100%">
-      <br>
-      <em>Binary Search Animation</em>
-    </td>
-  </tr>
+  
 </table>
 
 <br>
