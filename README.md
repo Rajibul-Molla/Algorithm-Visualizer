@@ -208,14 +208,14 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <img src="screenshots/sorting-main.png" alt="Sorting Visualizer Main View" width="90%">
+      <img src="https://github.com/Rajibul-Molla/Algorithm-Visualizer/blob/master/asset/shorting-visulizer.png" alt="Sorting Visualizer Main View" width="90%">
       <br>
       <em>Sorting Visualizer Interface</em>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="screenshots/bubble-sort.gif" alt="Bubble Sort Animation" width="100%">
+      <img src="https://github.com/Rajibul-Molla/Algorithm-Visualizer/blob/master/asset/shorting-actioncode.png" alt="Bubble Sort Animation" width="100%">
       <br>
       <em>Bubble Sort in Action</em>
     </td>
@@ -240,7 +240,7 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <img src="screenshots/searching-main.png" alt="Searching Visualizer Main View" width="90%">
+      <img src="https://github.com/Rajibul-Molla/Algorithm-Visualizer/blob/master/asset/searching-visualizer.png" alt="Searching Visualizer Main View" width="90%">
       <br>
       <em>Searching Visualizer Interface</em>
     </td>
@@ -263,7 +263,7 @@
 
 ### 👥 About Us Page
 <div align="center">
-  <img src="screenshots/about-us.png" alt="About Us Page" width="80%">
+  <img src="https://github.com/Rajibul-Molla/Algorithm-Visualizer/blob/master/asset/about-us.png" alt="About Us Page" width="80%">
   <br>
   <em>Team Members Page</em>
 </div>
@@ -274,22 +274,22 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="screenshots/mobile-home.png" alt="Mobile Homepage" width="100%">
+      <img src="https://github.com/Rajibul-Molla/Algorithm-Visualizer/blob/master/asset/mobile-home.png" alt="Mobile Homepage" width="100%">
       <br>
       <em>Homepage</em>
     </td>
     <td align="center" width="25%">
-      <img src="screenshots/mobile-menu.png" alt="Mobile Menu" width="100%">
+      <img src="https://github.com/Rajibul-Molla/Algorithm-Visualizer/blob/master/asset/mobile-menue.png" alt="Mobile Menu" width="100%">
       <br>
       <em>Navigation Menu</em>
     </td>
     <td align="center" width="25%">
-      <img src="screenshots/mobile-sorting.png" alt="Mobile Sorting" width="100%">
+      <img src="https://github.com/Rajibul-Molla/Algorithm-Visualizer/blob/master/asset/mobile-shorting.png" alt="Mobile Sorting" width="100%">
       <br>
       <em>Sorting View</em>
     </td>
     <td align="center" width="25%">
-      <img src="screenshots/mobile-searching.png" alt="Mobile Searching" width="100%">
+      <img src="https://github.com/Rajibul-Molla/Algorithm-Visualizer/blob/master/asset/mobile-searching.png" alt="Mobile Searching" width="100%">
       <br>
       <em>Searching View</em>
     </td>
