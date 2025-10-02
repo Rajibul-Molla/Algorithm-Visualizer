@@ -66,7 +66,7 @@
 ## 🚀 Demo
 
 <div align="center">
-  <a href="https://Rajibul-Molla.github.io/algorithm-visualizer">
+  <a href="https://algorithm-visualizer-sooty.vercel.app/">
     <img src="https://img.shields.io/badge/LIVE%20DEMO-Click%20Here-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
   </a>
 </div>
