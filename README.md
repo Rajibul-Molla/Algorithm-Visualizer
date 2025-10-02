@@ -23,7 +23,7 @@
   </p>
 
   <p align="center">
-    <a href="#demo">View Demo</a>
+    <a href="https://algorithm-visualizer-sooty.vercel.app/">View Demo</a>
     •
     <a href="#features">Features</a>
     •
